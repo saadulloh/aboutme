@@ -3,7 +3,7 @@
   <br>
   <br>
   <br>
-  <samp>Hi! I'm <a href="https://saad-blog.uz">Saadulloh</a>.<br> I'm a Developer from Samarkand.<br><br>#linux, #GO #python #datascience #django #AI</samp>
+  <samp>Hi! I'm <a href="https://saad-blog.uz">Saadulloh</a>.<br> I'm a Developer from Samarkand.<br><br>#linux, #GO #AI</samp>
   <br>
   <br>
   <br>
